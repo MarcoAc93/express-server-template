@@ -1,0 +1,19 @@
+{
+  "name": "express-server-template",
+  "version": "1.0.0",
+  "description": "Simple express server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MarcoAc93/express-server-template.git"
+  },
+  "author": "Marco Andrade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcoAc93/express-server-template/issues"
+  },
+  "homepage": "https://github.com/MarcoAc93/express-server-template#readme"
+}
