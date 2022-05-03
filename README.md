@@ -22,7 +22,7 @@ Cool! you just fixed the server. Wait a second... ohhh no we aren't able to send
 ## 3. Create more endpoints
 Woow you are killing it, you already fix the server and we are sending from /greetings. Now we need to create more endpoints.
 
-Using the API of [Rick and Morty](https://rickandmortyapi.com/api) we need to create the following endpoints
+Using the API of [Rick and Morty](https://rickandmortyapi.com/documentation/#rest) we need to create the following endpoints
 - Get all the characters
 - Get one character
 - Search for a character
