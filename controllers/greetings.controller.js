@@ -3,6 +3,4 @@ const sendGreetings = (req, res) => {
   return 'Hello human';
 };
 
-module.exports = {
-  sendGreetings,
-};
+module.exports = sendGreetings
