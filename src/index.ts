@@ -22,6 +22,6 @@ app.use(healthCheck);
 // Routes
 app.use('/api', greetings);
 
-app.listen(() => {
+app.listen(port, () => {
   console.log(`Server running on por ${port}`);
 });
